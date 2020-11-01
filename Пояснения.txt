@@ -1,0 +1,5 @@
+Код который анализировался находится по пути Code
+
+Model/Orders.php наблюдается слепая вера особенно метод makeOrder
+Model/Models.php полтергейст
+Model/DBModel.php лазанья код
